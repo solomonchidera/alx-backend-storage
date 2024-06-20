@@ -1,0 +1,2 @@
+// display the fields available
+db.my_db.find()
